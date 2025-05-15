@@ -5,7 +5,7 @@ A simple and stylish digital clock web application built using **HTML**, **CSS**
 
 ## 🖥️ Demo
 
-![Digital Clock Screenshot] (http://127.0.0.1:5500/index.html)
+![Digital Clock Screenshot] (http://127.0.0.1:5501/)
 
 ## 🚀 Features
 
